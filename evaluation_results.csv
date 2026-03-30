@@ -1,12 +1,12 @@
-page,gt_count,pred_count,precision,recall,f1,mean_iou,true_pos,false_pos,missed,llm_score,llm_missed,llm_extra,llm_mislocalized,llm_label_mismatches,llm_rationale
-page_0020,15,15,1.0,1.0,1.0,0.9943,15,0,0,,,,,,Expecting property name enclosed in double quotes: line 2 column 22 (char 23)
-page_0021,11,11,1.0,1.0,1.0,0.9947,11,0,0,,,,,,"Expecting ',' delimiter: line 2 column 20 (char 21)"
-page_0022,13,13,1.0,1.0,1.0,0.9941,13,0,0,,,,,,"Expecting ',' delimiter: line 2 column 20 (char 21)"
-page_0023,12,12,1.0,1.0,1.0,0.9935,12,0,0,,,,,,Expecting property name enclosed in double quotes: line 2 column 22 (char 23)
-page_0024,16,16,1.0,1.0,1.0,0.9928,16,0,0,,,,,,Expecting property name enclosed in double quotes: line 2 column 21 (char 22)
-page_0025,11,11,1.0,1.0,1.0,0.9914,11,0,0,,,,,,"Expecting ',' delimiter: line 2 column 20 (char 21)"
-page_0026,15,15,1.0,1.0,1.0,0.9943,15,0,0,,,,,,"Expecting ',' delimiter: line 2 column 21 (char 22)"
-page_0027,14,14,1.0,1.0,1.0,0.9831,14,0,0,,,,,,"Expecting ',' delimiter: line 2 column 21 (char 22)"
-page_0028,16,16,1.0,1.0,1.0,0.9948,16,0,0,,,,,,"Expecting ',' delimiter: line 2 column 20 (char 21)"
-page_0029,15,15,1.0,1.0,1.0,0.9894,15,0,0,,,,,,Expecting property name enclosed in double quotes: line 2 column 21 (char 22)
-page_0030,16,16,1.0,1.0,1.0,0.9925,16,0,0,,,,,,Expecting property name enclosed in double quotes: line 2 column 21 (char 22)
+page,gt_count,pred_count,precision,recall,f1,mean_iou,true_pos,false_pos,missed,mean_text_cer,mean_text_wer,mean_capture_rate,llm_score,llm_missed,llm_extra,llm_mislocalized,llm_label_mismatches,llm_rationale
+page_0020,15,15,1.0,1.0,1.0,0.9943,15,0,0,0.0,0.0,1.0,8,0,0,1,1,"Most regions are accurately detected, but some have minor spatial misalignments and label mismatches."
+page_0021,11,11,1.0,1.0,1.0,0.9947,11,0,0,0.0,0.0,1.0,8,0,0,3,2,"Most regions are correctly detected, but some are mislocalized. Label mismatches occur for regions 2 and 5."
+page_0022,13,13,1.0,1.0,1.0,0.9941,13,0,0,0.0,0.0,1.0,7,0,0,0,0,"Most regions are correctly localized, but some have minor spatial discrepancies. Label correctness is perfect."
+page_0023,12,12,1.0,1.0,1.0,0.9935,12,0,0,0.0,0.0,1.0,8,0,0,0,2,"Most regions are accurately detected with correct labels, but there are 2 label mismatches between GraphicZone-Decoration and GraphicZone."
+page_0024,16,16,1.0,1.0,1.0,0.9928,16,0,0,0.0,0.0,1.0,8,0,0,0,2,"Most regions are accurately detected, but there are minor label mismatches between predicted and ground-truth regions."
+page_0025,11,11,1.0,1.0,1.0,0.9914,11,0,0,0.0,0.0,1.0,8,0,0,3,0,"Most regions are correctly identified, but some have minor mislocalization issues."
+page_0026,15,15,1.0,1.0,1.0,0.9943,15,0,0,0.0,0.0,1.0,7,0,0,2,2,"Most regions are correctly detected, but some are mislocalized or have incorrect labels. The model struggles to accurately place the Head regions."
+page_0027,14,14,1.0,1.0,1.0,0.9831,14,0,0,0.0,0.0,1.0,8,0,0,2,0,"Most regions are accurately detected, but two regions are mislocalized. No regions are missed or extra."
+page_0028,16,16,1.0,1.0,1.0,0.9948,16,0,0,0.0,0.0,1.0,8,0,0,2,2,"Most regions are correctly identified, but some are mislocalized or have incorrect labels. The model has a good understanding of the page layout, but some fine-tuning is needed for accurate localization and labeling."
+page_0029,15,15,1.0,1.0,1.0,0.9894,15,0,0,0.0,0.0,1.0,7,0,0,4,1,"Most regions are correctly identified, but there are some mislocalized regions and a label mismatch."
+page_0030,16,16,1.0,1.0,1.0,0.9925,16,0,0,0.0256,0.0308,0.9692,8,0,0,2,0,"Most regions are correctly identified, but some are mislocalized. No regions are missed or extra."
