@@ -1,0 +1,146 @@
+[
+  {
+    "image": "1026A428_pdf_1-510_21_png.rf.iCOgjI6TC2M2ZEJnKcod.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "visi, le gesta degli eroi, o di dipingere l'ingratitudine degli uomini, gli inganni dell'ipocrisia, ec. ec., trasportato da un invincibile istinto di natura, non potei seguire quella uolontà, che di sè ora resa piu grande, mi ha spinto a cercare che resti con quest' opera qualche cosa del mio, poiche quanto (lo che succede al poeta estemporaneo) finora ho cantato,",
+    "status": "ok",
+    "elapsed_s": 13.36
+  },
+  {
+    "image": "1026A428_pdf_1-510_23_png.rf.6Mi3Crcp9bOB6VP4SFR0.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "ABBONDANZA, E CARESTIA.",
+    "status": "ok",
+    "elapsed_s": 3.69
+  },
+  {
+    "image": "Amsterdam_1644_Dirck_Pieter_Pers_33_png.rf.GFIDMFXNOEEewnv1NLTA.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "gen quaedspreckinge tegen de goede nae-",
+    "status": "ok",
+    "elapsed_s": 2.63
+  },
+  {
+    "image": "Amsterdam_1657_ca__Cornelis_Danckerts_28_png.rf.H9bG2gM01s3DDDlwWIgz.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "ICONOLOGIA,\n\n31. ESSI LIO. Ballinghscap.\n\nEn man in pelgrims kleederen, die in de rechter hand een wandelstaf, en op de slinckerhand een ualck heeft.\n\n32. MISERICORDIA. Barmbertigheyd.\n\nEn witte poeselige vrouwe, hebbende groote oogen, de neuse een weynigh verheuen, met een oliiĩkrans om t hoofs, staende met opgeslagen armen, hebbende in de rechter hand een cedertack met de uruchten, ter syden sal een kauw of een kraeyken staen.\n\n33. FRAUDE. Bedrogh.\n\nEn vrouwe met twee aengesichten, t eene iongh en schoon, t ander uan een oud leelĩck wiif, wesende bloot tot aen de borsten, gekleed in t geel tot de halve beenen toe, hebbende uoeten als een Adelaer, en de steert als een Scorpioen, die men tusschen haere beenen door",
+    "status": "ok",
+    "elapsed_s": 19.73
+  },
+  {
+    "image": "Augsburg_1760_ca__Georg_Hertel_34_png.rf.u8hZXHABMoPhRcCxulMN.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "XIII\nAURORA.\nOrta dies totum radiis impleverat orbem.\nCum luctantur adhuc Angelus atque Iacob.\nI. Wangner sculps.\nEichler del\nHertel excud.\nDer Morgent.\nIacob mit dem Engel rangte\nes der Morgent Thou sich schwingte.",
+    "status": "ok",
+    "elapsed_s": 7.22
+  },
+  {
+    "image": "Augsburg_1760_ca__Georg_Hertel_50_png.rf.CXBkC93DfrKevNiWFnu2.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "Quanuis erat positus tenebroso in\ncarcere Petrus\nAngelus adstat et eripuit sua vincula\ndura\nN. 105.\nSim̃on Vouet pinxit.\nG. E. Hertel scul.\nSic istm̃ de Eñgel doct̃ besreiẽt̃\nuid̃ beschri̾t̃.\nꝗͣ Petrus s̾m̾us assuĩt in dem̃\nꝓp̾fessũnus scĩt",
+    "status": "ok",
+    "elapsed_s": 11.12
+  },
+  {
+    "image": "Delft_1743-50_Hubert_Korneliszoon_Poot_22_png.rf.Bhk95B9DDvRckiGhCbUA.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "VOORREDEN.\n\ndien hy nochtans noemt in dat zelfde beelt bladz. 109. daer hy die plaets uan",
+    "status": "ok",
+    "elapsed_s": 5.31
+  },
+  {
+    "image": "Delft_1743-50_Hubert_Korneliszoon_Poot_34_png.rf.JzgkV6byTCTK68QQDkSU.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "OPPHET\n\nGROOT NATUUR. EN ZEDEKUNDIG\n\nWERELTTONNEEL\n\nDER UITGELEZEN\n\nZINNE BEELENDE\n\nOF\n\nBEELEDE SPRAEK ;\n\nUAN\n\nCESAR RIPA, ZARATINO KASTELLINI,\n\nPIERIUS VALERIANUS &c.\n\nP Oẽten, lang belust op schoone Zinnebeelden,\n\nAls waert gy aen den Nyl met Beeldespraek geuoet,\n\nDit beeltryk Kunsttoneel vertoont u oeyroet\n\nUan zaekwerbeeldingen, die d̾ oude mededeelden.\n\nIndien uw Poẽzy de neigende ooren streelden,\n\nEn het gereinigt hart, uan Christus maegdestoet,\n\nEer gy t Natuurelyke, en Zedelyke zoet\n\nUit dezen bloemhof zoogt, en in dit loofwerk speelden.\n\nWie zal uw̾ zanglust niet in ruimer Dichters uelt!\n\nVerrukken door u lierꝰ nu t cierlyk dicht",
+    "status": "ok",
+    "elapsed_s": 21.6
+  },
+  {
+    "image": "London_1709_P__Tempest_21_png.rf.hWnSf09xgY5t6hQBa99s.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "5. Despair.\n\n6. Agriculture.\n\n7. Assistance.\n\n8. Mirth.",
+    "status": "ok",
+    "elapsed_s": 2.24
+  },
+  {
+    "image": "London_1709_P__Tempest_34_png.rf.7072iFCXso3wEZuJYORr.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "9\n\nMoral Emblems.\n\nFIG. 33. Autorita, o Potesia: AUTHORITY.\n\nA Matron seated in a noble Chair, richly clothed, with a Gold\nimbroider'd Garment, holding a Sword in her right Hand, a double\nTrophy of Books and Arms by her Side.\n\nHer Age denotes Authority, as does the Throne: her splendid Habit,\nthe Preeminence Persons in Authority have over others. The Sword lifted\nup shews the sovereign Power: the Scepter, a Badge of Authority.\n\nFIG. 34. Augurio buono: GOOD AUGURY.\n\nA young Man all in green, a Star over his Head, hugging a Swan.\n\nGreen is a Token of Hope, and consequently of good Luck, because\nGreenness promises a plentiful Crop. The Star denotes good Success, and\nnot to be born under a three-penny Planet. The Whiteness of the Swan\nis a Sign of good Luck, as a black Crow betokens bad.\n\nFIG. 35. Benevolenza, & Unione matrimoniale. UNION.\n\nA comly Lady crown'd with Vine and Elm Leaves: Her left Arm\ndemonstrates some",
+    "status": "ok",
+    "elapsed_s": 20.0
+  },
+  {
+    "image": "London_1777-1778_George_Richardsonv1_107_png.rf.g1Kapj27TfA7XyQIwguI.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "XI.\n\nPublished as the Act direct No. 23. 1776.",
+    "status": "ok",
+    "elapsed_s": 3.53
+  },
+  {
+    "image": "London_1777-1778_George_Richardsonv2_107_png.rf.GNtE6uFM3jsTf7FkjAbC.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "GENEROSITY.\nLIX.\nHOSPITALITY.\nAMBITION.\nCONTEMPT OF THE WORLD.\nPublished as the Act Direct 12ᵈ Dec 1778.",
+    "status": "ok",
+    "elapsed_s": 4.93
+  },
+  {
+    "image": "Padova_1611_Cesare_Ripa_46_png.rf.wNtqN0SoYCD3fH53emoI.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "",
+    "status": "error: cannot identify image file '/u/yc87/exp/images/Padova_1611_Cesare_Ripa_46_png.rf.wNtqN0SoYCD3fH53emoI.png'",
+    "elapsed_s": 0.13
+  },
+  {
+    "image": "Padova_1611_Cesare_Ripa_65_png.rf.rj56f305Ov0dABzvEmK9.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "Di Cesare Ripa. 29\n\nARM E.\n\nCome depinte in Firenze dal gran Duca Ferdinando.\n\nH UOMO armato d'aspecto tremendo con l'elmo in capo, con la destra mano tiene un tronico di lancia posato alla coscia,& con la sinistra uno scudo, in mezzo del quale ui e depinta una testa di lupo.\n\nEssendo questa figura simile a quella di Marte si potra intendere per esesa l'arme, come Dio d'esse.\n\nARROGANZA.\n\nDONNA vestita di color di verderame, hauerà l'orecchie d'asino, terrà sotto il braccio siuistro un pauone,& con la destra mano alta mostrerà il dito indice.\n\nL'Arroganza e vitio di coloro, che se bene si conoscono di poco valore, nondimeno per parere assai presso a gli altri, pigliano il carico d'imprese difficili,& d'importanza,& ciò dice S.Tomasso 2.2.qu.112.art.1. Arrogans est, qui",
+    "status": "ok",
+    "elapsed_s": 20.14
+  },
+  {
+    "image": "Padova_1625_Cesare_Ripa_67_png.rf.vyNab4jRhrzaRLXuw6qG.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "DEL LA NOVISSIMA ICONOLOGIA",
+    "status": "ok",
+    "elapsed_s": 1.93
+  },
+  {
+    "image": "Padova_1625_Cesare_Ripa_80_png.rf.gMqBlO6FnBfdUe3B8DQ0.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "se nell'adulterio . Reg.cap.2.",
+    "status": "ok",
+    "elapsed_s": 2.1
+  },
+  {
+    "image": "Parma_1759_J__B__Boudardv1_35_png.rf.9RhLhJTg7bj6hMl9qdCk.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "ICONOLOGIE\n\nACCORD:\n\nDEux jeunes filles, dont l'une ac- corde une orgue, au ton d'une forte de flageolet qui est a cet usage, & que les Italiens nomment corista: l'autre prend le ton de l'orgue pour y accorder un luth.\n\nCes deux instruments sont les plus harmonieux, & les plus susceptibles des differents accords.\n\nACCORDO:\n\nDEue Gio uani, una delle quali accor- da un organo al tuono del corista; l'altra si serve dell'istesso tuono per ac- cordarui un linto.\n\nQuesti due strumenti sono i piu atti alla perfetta armonia, per la uarieta delle loro consonanze.",
+    "status": "ok",
+    "elapsed_s": 15.22
+  },
+  {
+    "image": "Perugia_1764-67_Cesare_Orlandiv1_70_png.rf.wLSlWgKQYvF1MjLJN8Jw.png",
+    "base_model_id": "Qwen/Qwen3-VL-8B-Instruct",
+    "adapter_model": "small-models-for-glam/Qwen3-VL-8B-catmus",
+    "ocr_text": "TOMO PRIMO. 15\nACCADEMIA:\nDi Gio. Zaratino Castellini.\nDONNA uestita di cangiante, di aspetto, e di età  uirile, coronata di oro. Nella man destra terrà una lima, intorno al cui manicò ui sia scritto DETRAHIT ATQUE POLIT. Nella mano sinistra avrà una Ghirlanda tessuta di Alloro, Edera, e Mirto: Dalla medesima mano pendino un pajo di Pomi granati. Sederà in una Sedia fregiata di fogliami, e frutti di Cedro, Cipresso, e Quercia, come anco rami di Oliva, in quella parte, ove si appoggia il gomito, luogo più prossimo alla Figura. Starà in mezzo di un Cortile ombroso, luogo boscareccio di Villa, con Platani intorno alli piedi. Avrà buona quantità di libri, tra' quali risieda un Cinocefalo, ouvero Babbuino.\nS",
+    "status": "ok",
+    "elapsed_s": 20.99
+  }
+]
